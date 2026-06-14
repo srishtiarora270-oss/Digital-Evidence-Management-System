@@ -1,0 +1,16 @@
+Summary Report Generated: 2026-06-14 20:39:05.708933
+
+Total Cases: 2
+Active Investigations: 2
+Closed Cases: 0
+High Priority Cases: 2
+
+High Priority Case IDs:
+  - C001 : theft (HIGH)
+  - C002 : theft (HIGH)
+
+Evidence Summary by Type:
+  - Image: 1
+
+Evidence Summary by Status:
+  - inprogress: 1

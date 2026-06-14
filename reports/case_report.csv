@@ -1,0 +1,3 @@
+case_id,crime_type,crime_location,date_of_incident,officer_assigned,suspect_name,evidence_type,evidence_description,investigation_status,priority_level
+C001,theft,delhi,12-07-2025,Ram Verma,Aman Kumar,Image,CCTV footage,ACtive ,HIGH
+C002,theft,delhi,12-07-2025,Ram Verma 2,Amit,Image,CCTV footage,ACtive,HIGH

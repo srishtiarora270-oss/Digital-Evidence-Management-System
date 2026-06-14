@@ -1,0 +1,6 @@
+Report Generated: 2026-06-14 20:39:05.704905
+
+{'case_id': 'C001', 'crime_type': 'theft', 'crime_location': 'delhi', 'date_of_incident': '12-07-2025', 'officer_assigned': 'Ram Verma', 'suspect_name': 'Aman Kumar', 'evidence_type': 'Image', 'evidence_description': 'CCTV footage', 'investigation_status': 'ACtive ', 'priority_level': 'HIGH'}
+
+{'case_id': 'C002', 'crime_type': 'theft', 'crime_location': 'delhi', 'date_of_incident': '12-07-2025', 'officer_assigned': 'Ram Verma 2', 'suspect_name': 'Amit', 'evidence_type': 'Image', 'evidence_description': 'CCTV footage', 'investigation_status': 'ACtive', 'priority_level': 'HIGH'}
+

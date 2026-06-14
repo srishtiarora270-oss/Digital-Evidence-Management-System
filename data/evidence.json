@@ -1,0 +1,9 @@
+[
+    {
+        "evidence_id": "E002",
+        "case_id": "C002",
+        "type": "Image",
+        "description": "Image",
+        "status": "inprogress"
+    }
+]
